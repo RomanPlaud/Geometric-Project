@@ -1,4 +1,4 @@
-# MVA G
+# MVA Geometric Data Analysis Project
 Project realised for the MVA course "Geometric Data Analysis" supervised by Jean Feydy. Project is based on [**"Fake News Detection on Social Media using Geometric Deep Learning"**](https://arxiv.org/pdf/1902.06673.pdf). 
 
 ## Report
